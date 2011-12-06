@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<plugin>
+	<nom>EAN MPN</nom>
+ 	<version>1.1</version>
+ 	<prefix>eanmpn</prefix>
+	<type>classique</type>
+ 	<auteur>Cyril Batillat, Scopika.com</auteur>
+ 	<thelia>1.5.1</thelia>
+ 	<description>
+        Ce plugin permet de gérer les N° EAN et MPN de chaque produit
+ 		&lt;br/&gt; Création : Cyril Batillat &lt;a href="http://www.scopika.com" style="color:#FF0066"&gt;Agence Scopika&lt;/a&gt;
+ 	</description>
+	<documentation>README</documentation>
+</plugin>

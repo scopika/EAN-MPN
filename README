@@ -1,0 +1,9 @@
+>> Présentation
+Ce plugin permet de gérer les N° EAN et MPN de chaque produit
+
+
+>> Installation
+- glisser le répertoire eanmpn/ dans le dossier client/plugins/ de votre Thelia
+- activer le plugin.
+
+>> Auteur : Cyril Batillat, Scopika
